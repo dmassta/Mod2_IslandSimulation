@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Bear",
+    "weight": 500,
+    "maxPerCell": 5,
+    "maxSpeed": 2,
+    "feedAmount": 80
+  },
+  {
+    "name": "Bee",
+    "weight": 0.02,
+    "maxPerCell": 200,
+    "maxSpeed": 1,
+    "feedAmount": 0.05
+  },
+  {
+    "name": "Boar",
+    "weight": 400,
+    "maxPerCell": 50,
+    "maxSpeed": 2,
+    "feedAmount": 50
+  },
+  {
+    "name": "Buffalo",
+    "weight": 700,
+    "maxPerCell": 10,
+    "maxSpeed": 3,
+    "feedAmount": 100
+  },
+  {
+    "name": "Catterpillar",
+    "weight": 0.01,
+    "maxPerCell": 1000,
+    "maxSpeed": 1,
+    "feedAmount": 0.05
+  },
+  {
+    "name": "Dear",
+    "weight": 300,
+    "maxPerCell": 20,
+    "maxSpeed": 4,
+    "feedAmount": 30
+  },
+  {
+    "name": "Duck",
+    "weight": 1,
+    "maxPerCell": 200,
+    "maxSpeed": 4,
+    "feedAmount": 0.15
+  },
+  {
+    "name": "Eagle",
+    "weight": 6,
+    "maxPerCell": 20,
+    "maxSpeed": 4,
+    "feedAmount": 1
+  },
+  {
+    "name": "Elephant",
+    "weight": 1000,
+    "maxPerCell": 10,
+    "maxSpeed": 2,
+    "feedAmount": 50
+  },
+  {
+    "name": "Flower",
+    "weight": 0.5,
+    "maxPerCell": 400,
+    "maxSpeed": 0,
+    "feedAmount": 0
+  },
+  {
+    "name": "Fox",
+    "weight": 8,
+    "maxPerCell": 30,
+    "maxSpeed": 2,
+    "feedAmount": 2
+  },
+  {
+    "name": "Goat",
+    "weight": 60,
+    "maxPerCell": 140,
+    "maxSpeed": 3,
+    "feedAmount": 10
+  },
+  {
+    "name": "Grass",
+    "weight": 1,
+    "maxPerCell": 1000,
+    "maxSpeed": 0,
+    "feedAmount": 0
+  },
+  {
+    "name": "Horse",
+    "weight": 400,
+    "maxPerCell": 20,
+    "maxSpeed": 4,
+    "feedAmount": 60
+  },
+  {
+    "name": "Mouse",
+    "weight": 0.05,
+    "maxPerCell": 300,
+    "maxSpeed": 1,
+    "feedAmount": 0.01
+  },
+  {
+    "name": "Pigeon",
+    "weight": 1,
+    "maxPerCell": 100,
+    "maxSpeed": 3,
+    "feedAmount": 0.1
+  },
+  {
+    "name": "Rabbit",
+    "weight": 2,
+    "maxPerCell": 150,
+    "maxSpeed": 2,
+    "feedAmount": 0.45
+  },
+  {
+    "name": "Sheep",
+    "weight": 70,
+    "maxPerCell": 140,
+    "maxSpeed": 3,
+    "feedAmount": 15
+  },
+  {
+    "name": "Snake",
+    "weight": 15,
+    "maxPerCell": 30,
+    "maxSpeed": 1,
+    "feedAmount": 3
+  },
+  {
+    "name": "Tree",
+    "weight": 1000,
+    "maxPerCell": 100,
+    "maxSpeed": 0,
+    "feedAmount": 0
+  },
+  {
+    "name": "Wolf",
+    "weight": 50,
+    "maxPerCell": 30,
+    "maxSpeed": 3,
+    "feedAmount": 8
+  }
+]
